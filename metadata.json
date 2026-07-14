@@ -1,0 +1,6 @@
+{
+  "name": "ATM VOTE",
+  "description": "ATM VOTE is a production-ready, multi-tenant SaaS online voting platform supporting Super Admin, Organization, Staff, Voter and Guest roles with dynamic branding and secure transactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
